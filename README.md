@@ -1,18 +1,24 @@
 # P02_ROSSI_KARIM
+## **Projet 2 - Application Webscraping**
+###### Projet consistant à réaliser un programme Python pour récupérer des données de livres depuis un site internet de vente en ligne books.toscrape.com
+
+http://books.toscrape.com/index.html
+
 Projet openclassroom sur le webscraping
-#**Projet 2 - Application Webscraping**
+
 :point_down:    :point_down:    :point_down:
 
 ![GitHub Logo](/openclassroom/projet2/scraping_website_screenshot.png)
 Format: ![Alt Text](url)
 
-###### Programme Python pour récupérer des données de livres depuis un site internet de vente en ligne books.toscrape.com
-##**Préambule**
-######Ce readme.md a pour objectif de décrire comment créer et activer l'environnement virtuel, puis exécuter le code d'application ;
 
-###**Pré-requis**
+## **Préambule**
 
-#####Pour commencer ce projet, il est essentiel d’avoir accès aux outils suivants :
+###### Ce readme.md a pour objectif de décrire comment créer et activer l'environnement virtuel, puis exécuter le code d'application ;
+
+### **Pré-requis**
+
+##### Pour commencer ce projet, il est essentiel de disposer aux outils suivants :
 
 - OS Linux
 - Terminal linux
